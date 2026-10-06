@@ -3,3 +3,4 @@
 Odpowiedzialny: MarcelAL3
 Stan: GOTOWY
 Opis zmiany: Dodano walidacje danych wejsciowych.
+Bardziej szczegolowe informacje.
