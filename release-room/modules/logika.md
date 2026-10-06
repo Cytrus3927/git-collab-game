@@ -1,5 +1,5 @@
 # Moduł logika
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: MarcelAL3
+Stan: GOTOWY
+Opis zmiany: Dodano walidacje danych wejsciowych.
